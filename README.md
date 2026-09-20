@@ -4,7 +4,7 @@ A local helper server for the **.aix Manager** Chrome extension.
 
 This server provides file-system access that a Chrome extension cannot have on its own. It scans a folder you configure, returns the list of `.aix` extension files it contains, opens the native file explorer in the folder of a selected file, and stores your favorites list.
 
-The companion Chrome extension is available on the Chrome Web Store: [link to your extension].
+The companion Chrome extension is available on the Chrome Web Store: [https://chromewebstore.google.com/detail/edihhjpkefdiefdefeafidpkjlbncglf?utm_source=item-share-cp].
 
 ---
 
