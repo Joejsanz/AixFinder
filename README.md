@@ -1,6 +1,7 @@
 # AixFinder
-
 A local helper server for the **.aix Manager** Chrome extension.
+
+<img width="1365" height="717" alt="image" src="https://github.com/user-attachments/assets/0d0f645b-ce7e-4c55-ac32-df72c0710ef9" />
 
 This server provides file-system access that a Chrome extension cannot have on its own. It scans a folder you configure, returns the list of `.aix` extension files it contains, opens the native file explorer in the folder of a selected file, and stores your favorites list.
 
